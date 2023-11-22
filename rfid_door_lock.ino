@@ -8,9 +8,9 @@ _date_: 18/07/2019
 #include <MFRC522.h>
 #include <LiquidCrystal_I2C.h>
 #include <Keypad.h>
- #include <EEPROM.h>
+#include <EEPROM.h>
 #include <Wire.h>
-#include <LiquidCrystal_I2C.h>
+
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
  
