@@ -4,8 +4,9 @@ For the hardware, I used an Arduino Uno, a 3x4 keypad, an RFID-RC522, a 100 OHM 
 
 The following is the hardware design
 
-![RFID_door_lock](https://github.com/med0amine/RFID_Door_Lock/assets/151380756/c35d13dd-e284-4cfa-a3d4-05fd45fda2b2)
-![RFID_door_lock_schem](https://github.com/med0amine/RFID_Door_Lock/assets/151380756/9058018f-1a87-47e5-b27d-132b9a7abfc9)
+![RFID_door_lock](https://github.com/med0amine/RFID_Door_Lock/assets/151380756/4cf7e93b-c6d0-46d5-8718-4dbd85eb34da)
+
+![RFID_door_lock_schem](https://github.com/med0amine/RFID_Door_Lock/assets/151380756/9e56266c-7287-4161-85dd-103e4be3e313)
 
 The hardware design was done with Fritzing, while the programming was done in Arduino IDE.
 
